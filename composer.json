@@ -1,0 +1,23 @@
+{
+    "name" : "sturple/fg-theme-install",
+    "version" : "0.0.1",
+    "type" : "project",
+    "license" : "MIT",
+    "description" :"FGMS Base Project Installer",
+    "homepage" : "http://github.com/sturple/fg-theme-install",
+    "keywords" : ["wordpress", "FGMS", "installer"],
+    "authors" : [
+        {
+            "name" : "Shawn Turple",
+            "email" : "shawn@turple.ca",
+            "role" : "Developer"
+        }
+    ],
+    "require" : {
+        "php" : ">=5.4",
+        "sturple/fg-wp-theme-twig": ">=0.0.2",
+        "yoast/wordpress-seo": ">=3.2.5",
+         "timber/timber":"1.*",
+        
+    }   
+}
