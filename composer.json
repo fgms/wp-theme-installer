@@ -7,6 +7,7 @@
     "homepage" : "http://github.com/sturple/fg-theme-install",
     "keywords" : ["wordpress", "FGMS", "installer"],
     "minimum-stability" : "dev",
+    "prefer-stable" : true,
     "authors" : [
         {
             "name" : "Shawn Turple",
