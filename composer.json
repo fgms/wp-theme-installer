@@ -6,6 +6,7 @@
     "description" :"FGMS Base Project Installer",
     "homepage" : "http://github.com/sturple/fg-theme-install",
     "keywords" : ["wordpress", "FGMS", "installer"],
+    "minimum-stability" : "dev",
     "authors" : [
         {
             "name" : "Shawn Turple",
