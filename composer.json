@@ -15,7 +15,7 @@
     ],
     "require" : {
         "php" : ">=5.4",
-        "sturple/fg-wp-theme-twig": "0.0.x-*@dev",
+        "sturple/fg-wp-theme-twig": ">=0.0.1",
         "yoast/wordpress-seo": ">=3.2.5",
          "timber/timber":"1.*"
         
