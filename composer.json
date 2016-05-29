@@ -1,10 +1,10 @@
 {
-    "name" : "sturple/fg-theme-install",
+    "name" : "sturple/fg-wp-theme-installer",
     "version" : "0.0.1",
     "type" : "project",
     "license" : "MIT",
-    "description" :"FGMS Base Project Installer",
-    "homepage" : "http://github.com/sturple/fg-theme-install",
+    "description" :"FGMS Base Wordpress Project Installer",
+    "homepage" : "http://github.com/sturple/fg-wp-theme-installer",
     "keywords" : ["wordpress", "FGMS", "installer"],
     "authors" : [
         {
