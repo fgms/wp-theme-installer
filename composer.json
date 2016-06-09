@@ -1,6 +1,6 @@
 {
     "name" : "sturple/fg-wp-theme-installer",
-    "version" : "0.0.3",
+    "version" : "0.0.4",
     "type" : "project",
     "license" : "GPL-3.0",
     "description" :"FGMS Base Wordpress Project Installer",
@@ -18,7 +18,7 @@
         "sturple/fg-theme-master": ">=0.0.1",
         "sturple/wpcf7-email-templates" : "*",
         "symfony/yaml": "^3.0",
-        "yoast/wordpress-seo": ">=3.2.5",
+        "t1gor/robots-txt-parser": "*",
          "timber/timber":"1.*"
         
     }   
