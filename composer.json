@@ -1,6 +1,6 @@
 {
     "name" : "sturple/fg-wp-theme-installer",
-    "version" : "0.0.7",
+    "version" : "0.0.8",
     "type" : "project",
     "license" : "GPL-3.0",
     "description" :"FGMS Base Wordpress Project Installer",
@@ -17,9 +17,9 @@
     ],
     "require" : {
         "php" : ">=5.4",
-        "sturple/fg-theme-master": "0.0.*@dev",
-        "sturple/wpcf7-email-templates" : "0.0.*@dev",
-        "sturple/wordpress-site-check" : "0.0.*@dev",
+        "sturple/fg-theme-master": "0.0.x-dev",
+        "sturple/wpcf7-email-templates" : "0.0.x-dev",
+        "sturple/wordpress-site-check" : "0.0.x-dev",
         "symfony/yaml": "^3.0",
         "t1gor/robots-txt-parser": "*",
         "timber/timber":"*"
