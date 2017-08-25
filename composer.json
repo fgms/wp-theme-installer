@@ -1,23 +1,23 @@
 {
-    "name" : "sturple/fg-wp-theme-installer",
-    "version" : "0.0.10",
+    "name" : "fgms/wp-theme-installer",
+    "version" : "0.1.0",
     "type" : "project",
     "license" : "GPL-3.0",
     "description" :"FGMS Base Wordpress Project Installer",
-    "homepage" : "http://github.com/sturple/fg-wp-theme-installer",
+    "homepage" : "http://github.com/fgms/wp-theme-installer",
     "keywords" : ["wordpress", "FGMS", "installer","timber"],
     "minimum-stability" : "dev",
     "prefer-stable" : true,
     "authors" : [
         {
             "name" : "Shawn Turple",
-            "email" : "shawn@turple.ca",
+            "email" : "shawn.turple@fifthgeardev.com",
             "role" : "Developer"
         }
     ],
     "require" : {
         "php" : ">=5.4",
-        "sturple/fg-theme-master": "1.1.*@dev",
+        "fgms/wp-theme-twig": "~0.4",
         "sturple/wpcf7-email-templates" : "@dev",
         "symfony/yaml": "^3.0",
         "t1gor/robots-txt-parser": "*",
