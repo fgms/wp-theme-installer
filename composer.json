@@ -1,6 +1,6 @@
 {
     "name" : "fgms/wp-theme-installer",
-    "version" : "0.1.0",
+    "version" : "0.1.1",
     "type" : "project",
     "license" : "GPL-3.0",
     "description" :"FGMS Base Wordpress Project Installer",
@@ -17,7 +17,7 @@
     ],
     "require" : {
         "php" : ">=5.4",
-        "fgms/wp-theme-twig": "~0.4",
+        "fgms/wp-theme-twig": "@dev",
         "sturple/wpcf7-email-templates" : "@dev",
         "symfony/yaml": "^3.0",
         "t1gor/robots-txt-parser": "*",
